@@ -1,0 +1,30 @@
+@font-face {
+    font-family: dastnevis;
+    src: url('fonts/dastnevis.ttf');
+}
+@font-face {
+    font-family: roya;
+    src: url('fonts/broya.ttf');
+
+}
+
+
+body{
+    direction: rtl;
+    font-family: dastnevis;
+}
+form{
+    font-family:roya;
+}/*
+.navbar-header{
+    float: right;
+}
+.navbar ul li {
+    display: inline-block!important;
+
+}
+.container-fluid{
+    width:80%;
+    text-align: right;
+
+}
