@@ -13,9 +13,32 @@ body{
     direction: rtl;
     font-family: dastnevis;
 }
+p{
+    text-align: justify;
+}
+h1, h2, h3, h4, h5, h6{
+    margin:10px 0px;
+}
 form{
     font-family:roya;
-}/*
+}
+.col-sm-2{
+    background-color: #BBBBBB;
+    text-align: center;
+}
+.col-sm-8{
+    text-align: right;
+    background-color: #ddd;
+}
+.small{
+    width: 100px;
+    height: 100px;
+}
+img{
+
+    border: 1px solid #333333;
+}
+/*
 .navbar-header{
     float: right;
 }
